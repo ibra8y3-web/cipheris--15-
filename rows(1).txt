@@ -1,0 +1,73 @@
+180:                        FeatureRow(
+186:                        FeatureRow(
+192:                        FeatureRow(
+300:fun FeatureRow(icon: androidx.compose.ui.graphics.vector.ImageVector, title: String, desc: String) {
+301:    Row(
+436:            Row(
+455:                    Row(verticalAlignment = Alignment.CenterVertically) {
+473:                Row(verticalAlignment = Alignment.CenterVertically) {
+576:                            GroupChatRow(group = group, onClick = { viewModel.selectGroupChat(group.groupId) })
+593:                            PeerChatRow(peer = peer, onClick = { viewModel.selectDirectChat(peer.nodeId) })
+652:fun PeerChatRow(peer: Peer, onClick: () -> Unit) {
+661:        Row(
+695:                Row(
+735:fun GroupChatRow(group: GroupChat, onClick: () -> Unit) {
+744:        Row(
+767:                Row(
+815:        Row(
+939:            Row(
+1006:    Row(
+1028:        Row(
+1065:            Row(
+1126:                Row(modifier = Modifier.fillMaxWidth()) {
+1262:                    Row(
+1391:                    Row(
+1436:                    Row(
+1477:                            Row(verticalAlignment = Alignment.CenterVertically) {
+1589:                Row(
+1597:                    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.weight(1f)) {
+1618:                            Row(verticalAlignment = Alignment.CenterVertically) {
+1638:                    Row(verticalAlignment = Alignment.CenterVertically) {
+1726:                                Row(verticalAlignment = Alignment.CenterVertically) {
+1859:                    Row(
+1870:                        Row(verticalAlignment = Alignment.CenterVertically) {
+1884:                Row(
+2015:    Row(
+2042:        Row(
+2098:        Row(
+2160:                        Row(
+2205:                    Row(
+2266:            Row(
+2337:                    Row(
+2457:                                    Row(
+2600:                Row(
+2674:            Row(
+2747:                    Row(
+2831:                        Row(
+2863:                            Row(verticalAlignment = Alignment.CenterVertically) {
+3131:            Row(
+3417:                        Row(
+3502:                // Controls Row
+3503:                Row(
+3586:            Row(
+3614:                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+3653:                            Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+3689:                                Row(
+3694:                                    Row(verticalAlignment = Alignment.CenterVertically) {
+3737:                                Row(
+3811:                        Row(
+3843:                        Row(
+3944:                        Row(
+4055:                    Row(
+4093:                        Row(
+4139:                    Row(
+4227:                    Row(
+4258:                Row(
+4266:                    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.weight(1f)) {
+4294:                    Row(verticalAlignment = Alignment.CenterVertically) {
+4335:                    Row(
+4340:                        Row(verticalAlignment = Alignment.CenterVertically) {
+4361:                    Row(
+4432:                            Row(
+4437:                                Row(verticalAlignment = Alignment.CenterVertically) {
+4481:                            Row(

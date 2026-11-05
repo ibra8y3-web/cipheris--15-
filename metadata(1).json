@@ -1,0 +1,6 @@
+{
+  "name": "سيفيرس (Cipheris)",
+  "description": "سيفيرس - أول شبكة مراسلة لا مركزية مشفرة بالكامل 100% بدون أي معرفات شخصية أو خوادم مركزية، مع تدمير ذاتي للرسائل وتخزين محلي مشفر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
